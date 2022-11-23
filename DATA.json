@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "row": 1,
+    "col": 1,
+    "price": 100,
+    "is_booked": true
+  },
+  {
+    "id": 2,
+    "row": 1,
+    "col": 2,
+    "price": 100,
+    "is_booked": false
+  },
+  {
+    "id": 3,
+    "row": 1,
+    "col": 3,
+    "price": 100,
+    "is_booked": false
+  },
+  {
+    "id": 4,
+    "row": 1,
+    "col": 4,
+    "price": 100,
+    "is_booked": false
+  },
+  {
+    "id": 5,
+    "row": 1,
+    "col": 5,
+    "price": 100,
+    "is_booked": false
+  },
+  {
+    "id": 6,
+    "row": 2,
+    "col": 1,
+    "price": 200,
+    "is_booked": false
+  },
+  {
+    "id": 7,
+    "row": 2,
+    "col": 2,
+    "price": 200,
+    "is_booked": false
+  },
+  {
+    "id": 8,
+    "row": 2,
+    "col": 3,
+    "price": 200,
+    "is_booked": false
+  },
+  {
+    "id": 9,
+    "row": 2,
+    "col": 4,
+    "price": 200,
+    "is_booked": false
+  },
+  {
+    "id": 10,
+    "row": 2,
+    "col": 5,
+    "price": 200,
+    "is_booked": false
+  },
+  {
+    "id": 11,
+    "row": 3,
+    "col": 1,
+    "price": 300,
+    "is_booked": false
+  },
+  {
+    "id": 12,
+    "row": 3,
+    "col": 2,
+    "price": 300,
+    "is_booked": false
+  },
+  {
+    "id": 13,
+    "row": 3,
+    "col": 3,
+    "price": 300,
+    "is_booked": false
+  },
+  {
+    "id": 14,
+    "row": 3,
+    "col": 4,
+    "price": 300,
+    "is_booked": false
+  },
+  {
+    "id": 15,
+    "row": 3,
+    "col": 5,
+    "price": 300,
+    "is_booked": false
+  }
+]
